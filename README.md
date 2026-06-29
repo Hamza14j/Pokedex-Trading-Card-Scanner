@@ -1,0 +1,1 @@
+This is a standalone device that scans and tracks your Pokemon Trading Card collection. Upon inserting the card, the machine will scan and identify the card, what set it belongs to, and what Pokemon it is. The machine will be designed similar to a Pokedex, the device used in the Pokemon anime to identify Pokemon.
